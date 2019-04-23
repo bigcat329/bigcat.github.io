@@ -22,5 +22,5 @@ tags:
 希望自己做产品的同时也能更多学点技术。
 
 ```
-$ echo "Hello World"
+Print ("Hello World")
 ```
