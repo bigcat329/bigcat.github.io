@@ -1,4 +1,4 @@
-# Hectoor.Z Blog
+# Bigcat.C Blog
 
 ## Thanks
 
