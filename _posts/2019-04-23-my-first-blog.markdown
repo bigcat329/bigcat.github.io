@@ -6,12 +6,12 @@ date:       2019-04-23 20:00:00
 author:     "Bigcat"
 header-img: "img/post-think-try-write.jpg"
 tags:
-    - 聊聊
+    - 随便写
 ---
 
 ## 欢迎光临。
 
-我是一枚产品。
+我是一枚产品，还是偏一点运营的，产品策划+运营。
 
 感觉github还是很有意思的，虽然很多看不懂。
 
